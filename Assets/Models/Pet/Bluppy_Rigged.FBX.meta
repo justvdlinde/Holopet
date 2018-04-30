@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 6c6987bfbd555254c91e6719831f8ed0
+timeCreated: 1516026340
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ' FinLeft_1'
+    100002: ' FinLeft_2'
+    100004: ' FinRight_1'
+    100006: ' FinRight_2'
+    100008: //RootNode
+    100010: Body
+    100012: Body_1
+    100014: Body_10
+    100016: Body_11
+    100018: Body_2
+    100020: Body_3
+    100022: Body_5
+    100024: Body_6
+    100026: Body_7
+    100028: Body_8
+    100030: Body_9
+    100032: Cheeck_Left_1
+    100034: Cheeck_Left_2
+    100036: CheeckRight_1
+    100038: CheeckRight_2
+    100040: Eyes
+    100042: Head
+    100044: LowerJaw_1
+    100046: LowerJaw_2
+    100048: Neck
+    100050: UpperJaw_1
+    100052: UpperJaw_2
+    400000: ' FinLeft_1'
+    400002: ' FinLeft_2'
+    400004: ' FinRight_1'
+    400006: ' FinRight_2'
+    400008: //RootNode
+    400010: Body
+    400012: Body_1
+    400014: Body_10
+    400016: Body_11
+    400018: Body_2
+    400020: Body_3
+    400022: Body_5
+    400024: Body_6
+    400026: Body_7
+    400028: Body_8
+    400030: Body_9
+    400032: Cheeck_Left_1
+    400034: Cheeck_Left_2
+    400036: CheeckRight_1
+    400038: CheeckRight_2
+    400040: Eyes
+    400042: Head
+    400044: LowerJaw_1
+    400046: LowerJaw_2
+    400048: Neck
+    400050: UpperJaw_1
+    400052: UpperJaw_2
+    2100000: lambert4
+    2100002: lambert5
+    2300000: Eyes
+    3300000: Eyes
+    4300000: Head
+    4300002: Body
+    4300004: Eyes
+    9500000: //RootNode
+    13700000: Body
+    13700002: Head
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 3
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

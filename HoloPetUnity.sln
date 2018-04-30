@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloPetUnity", "HoloPetUnity.csproj", "{875F35BA-FF73-0CBF-25BC-C950AA1A68FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloPetUnity.Editor", "HoloPetUnity.Editor.csproj", "{78249ECC-41B6-0646-03D1-FB41EE8582FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{875F35BA-FF73-0CBF-25BC-C950AA1A68FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{875F35BA-FF73-0CBF-25BC-C950AA1A68FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{875F35BA-FF73-0CBF-25BC-C950AA1A68FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{875F35BA-FF73-0CBF-25BC-C950AA1A68FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78249ECC-41B6-0646-03D1-FB41EE8582FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78249ECC-41B6-0646-03D1-FB41EE8582FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78249ECC-41B6-0646-03D1-FB41EE8582FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78249ECC-41B6-0646-03D1-FB41EE8582FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
